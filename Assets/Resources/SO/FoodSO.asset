@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 724c37f75e948d84f9290d61d2fb9e8b, type: 3}
+  m_Name: FoodSO
+  m_EditorClassIdentifier: 
+  foods:
+  - _name: Bibimbop
+    _image: {fileID: 21300000, guid: ee7852cc73d44094f85e0b6f43792fc1, type: 3}
+    salty: 0
+    spicy: 0
+    sour: 0
+    toxic: 0
+  - _name: Bibimbop
+    _image: {fileID: 21300000, guid: 75fd8f7e346761041a002328c140a887, type: 3}
+    salty: 0
+    spicy: 0
+    sour: 0
+    toxic: 1
+  - _name: Bibimbop
+    _image: {fileID: 21300000, guid: a410006bcc0bb714db16c35896f52bc5, type: 3}
+    salty: 1
+    spicy: 0
+    sour: 0
+    toxic: 0
+  - _name: Bulgogi
+    _image: {fileID: 21300000, guid: 8c6cf1be3937b11459f00ed29a068805, type: 3}
+    salty: 0
+    spicy: 0
+    sour: 1
+    toxic: 0
+  - _name: Bulgogi
+    _image: {fileID: 21300000, guid: 83632dedbc50e6d41b1bcc0b68389a92, type: 3}
+    salty: 0
+    spicy: 0
+    sour: 0
+    toxic: 0
+  - _name: Bulgogi
+    _image: {fileID: 21300000, guid: f0409c4112982fd4c969c0b1dee79360, type: 3}
+    salty: 0
+    spicy: 0
+    sour: 0
+    toxic: 1
+  - _name: Buldak
+    _image: {fileID: 21300000, guid: 18e25ecb959858f4e8d3157e306a1281, type: 3}
+    salty: 0
+    spicy: 0
+    sour: 0
+    toxic: 0
+  - _name: Buldak
+    _image: {fileID: 21300000, guid: f0409c4112982fd4c969c0b1dee79360, type: 3}
+    salty: 0
+    spicy: 0
+    sour: 0
+    toxic: 1
+  - _name: Buldak
+    _image: {fileID: 21300000, guid: 6169874c1a8ad28469b58783cfa31c9a, type: 3}
+    salty: 0
+    spicy: 1
+    sour: 0
+    toxic: 0
